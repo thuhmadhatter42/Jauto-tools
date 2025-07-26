@@ -47,6 +47,9 @@ On first run, macOS will block the script:
 - Copies them to your Desktop in a folder called `Collected Bounces`
 - Built for fast post-session handoff or reference pulling
 
+### `list_aax_plugins.py`
+- List every *.aaxplugin in a chosen folder and export the names to a CSV.
+
 ---
 
 ## 🚀 Tools Coming Soon
